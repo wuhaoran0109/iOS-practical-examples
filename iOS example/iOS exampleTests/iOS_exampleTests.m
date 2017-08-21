@@ -1,6 +1,6 @@
 //
-//  iOS_examplesTests.m
-//  iOS examplesTests
+//  iOS_exampleTests.m
+//  iOS exampleTests
 //
 //  Created by wuhaoran on 2017/8/21.
 //  Copyright © 2017年 浩然科技. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface iOS_examplesTests : XCTestCase
+@interface iOS_exampleTests : XCTestCase
 
 @end
 
-@implementation iOS_examplesTests
+@implementation iOS_exampleTests
 
 - (void)setUp {
     [super setUp];
